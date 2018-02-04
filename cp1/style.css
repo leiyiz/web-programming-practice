@@ -1,0 +1,17 @@
+p {
+    color: dimgray;
+}
+
+body {
+    font-family: Garamond, "Times New Roman", serif;
+    background-color: #FAFAFA;
+}
+
+a {
+    color: darkturquoise;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
