@@ -1,0 +1,18 @@
+body {
+    background: #F1F1F1;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#banner {
+    background: url("https://webster.cs.washington.edu/images/rancidbannerbg.png") repeat-x;
+    background-size: auto, 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", serif;
+}
