@@ -1,5 +1,5 @@
 body {
-    background: #F1F1F1;
+    background: #FFFFFF;
     font-size: 12pt;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -15,4 +15,57 @@ h1 {
     font-weight: bold;
     text-align: center;
     font-family: Georgia, "Times New Roman", serif;
+}
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    background-color: #EEEEEE;
+}
+
+.content-container {
+    display: flex;
+}
+
+footer {
+    text-align: center;
+    padding: 0.5em;
+    background-color: #DDDDDD;
+}
+
+#freshness {
+    margin-bottom: 1rem;
+}
+
+#freshness span {
+    height: 83px;
+    font-size: 48pt;
+    color: red;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+#freshness img {
+    vertical-align: middle;
+}
+
+.reviews {
+    display: flex;
+    flex-direction: column;
+}
+
+.quotebubble {
+    max-width: 90%;
+    font-size: 13pt;
+    font-family: Georgia, "Times New Roman", serif;
+    width: 90%;
+    background-color: #FFFFFF;
+    border: 2px #CCCCCC solid;
+    border-radius: 12px;
+    padding: 1em;
+}
+
+.reviews p {
+    margin: 0px;
 }
