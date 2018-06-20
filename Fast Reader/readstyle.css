@@ -1,0 +1,60 @@
+#mainContent {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#readingArea {
+    height: 150px;
+    width: 80%;
+    margin: auto;
+    background-color: #F0F0F0;
+    text-align: center;
+    line-height: 150px;
+}
+
+.Medium {
+    font-size: 30pt;
+}
+
+.Big {
+    font-size: 38pt;
+}
+
+.Biggest {
+    font-size: 46pt;
+}
+
+h1 {
+    text-align: center;
+}
+
+#control {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 80px;
+}
+
+.prompt {
+    font-size: 16pt;
+}
+
+#textInput {
+    height: 500px;
+    width: 80%;
+    margin: auto;
+}
+#input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 70%;
+    background-color: #F0F0F0;
+    border: none;
+}
